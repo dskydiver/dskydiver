@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am CryptoStar, a **Fullstack Blockchain Core Engineer** (specializing in **Ethereum, Near, Solana, Substrate, Polkadot ... **).
+🎓 I am CryptoStar, a **Fullstack Blockchain Core Engineer** (specializing in **Ethereum, Near, Solana, Substrate, Polkadot etc**).
 
 👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am really enthusiastic about learning new technology. 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **guitar**, **break dancing (hip-hop)**, **sketching**, and **touch typing** to some whacky ones like **writing with my left hand**.
