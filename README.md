@@ -3,17 +3,6 @@
 <!-- Hero Section -->
 <p align="center"><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/programming1.webp" alt="A software engineer is writing code" width="700" /><img src="https://activity-graph.herokuapp.com/graph?username=royrustdev&theme=react-dark" alt="My github activity graph" /><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/output/snake-anime.svg" alt="Github Snake Animation"></p>
 
-<!-- Profile Views -->
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=royrustdev&label=Github%20Profile%20Views&color=blueviolet&style=flat-square" alt="Mike" />
-<a href="https://linkedin.com/in/mike-wang-410b62253" target="_blank">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/royrustdev?color=blue&logo=Twitter&style=flat-square">
-</a>
-<a href="https://linkedin.com/in/mike-wang-410b62253" target="_blank">
-<img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/royrustdev?logo=Reddit&style=flat-square">
-</a>
-</p>
-
 # I'm a
 
 [![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer;DevOps+Engineer;AWS+Developer+Associate)](https://git.io/typing-svg)
@@ -43,7 +32,7 @@
 
 ## 🚀 About Me
 
-🎓 I am CryptoStar, a **Fullstack Blockchain Core Engineer** (specializing in **Ethereum, Near, Solana, Substrate, Polkadot etc**).
+🎓 I am CryptoStar, a **Fullstack Blockchain Engineer** (specializing in **Ethereum, Near, Solana, Substrate, Polkadot etc**).
 
 👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am really enthusiastic about learning new technology. 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **guitar**, **break dancing (hip-hop)**, **sketching**, and **touch typing** to some whacky ones like **writing with my left hand**.
